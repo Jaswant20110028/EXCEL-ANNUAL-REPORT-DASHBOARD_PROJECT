@@ -4,6 +4,10 @@ In this project i collected the data from Vishrut Store in a mall near to my hou
 Here I have done Data cleaning, Data Processing, Data Analysis.
 I also shared them the Insights of the overall sales needed to increase the sales of that store in the upcoming year.
 
+# EXCEL FILE LINK:
+(Note- Download then open in Ms-Excel of pc for perfect view)
+https://docs.google.com/spreadsheets/d/1AkUMsVJrxnECJBxeN-VrAtiu3odVYgws/edit?usp=drive_link&ouid=102796300218919920779&rtpof=true&sd=true
+
 # Database and Tools:
 1. MS-EXCEL
 2. PIVOT TABLES AND CHARTS
