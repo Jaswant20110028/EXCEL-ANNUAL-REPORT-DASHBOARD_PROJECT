@@ -6,6 +6,7 @@ I also shared them the Insights of the overall sales needed to increase the sale
 
 # EXCEL FILE LINK:
 (Note- Download then open in Ms-Excel of pc for perfect view)
+
 https://docs.google.com/spreadsheets/d/1AkUMsVJrxnECJBxeN-VrAtiu3odVYgws/edit?usp=drive_link&ouid=102796300218919920779&rtpof=true&sd=true
 
 # Database and Tools:
